@@ -23,7 +23,6 @@ Bem-vindo ao **AluGames**! Este projeto foi desenvolvido para gerenciar o alugue
 
 ![Dashboard de Aluguel de Jogos](https://github.com/user-attachments/assets/28d846cf-cb84-4000-aee7-3461e0c74486)
 
-*Adicione aqui uma captura de tela do projeto.*
 
 ## 📝 Observações
 
